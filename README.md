@@ -82,7 +82,7 @@ httpd.serve_forever()
 
 ```
 # OUTPUT:
-![Alt text](webserver.jpg)
+![output](webserver.jpg)
 
 # RESULT:
 
