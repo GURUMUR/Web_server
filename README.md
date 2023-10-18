@@ -30,7 +30,7 @@ content = """
 </head>
 <body>
 <h1>Gurumurthy</h1>
-<h1>Artifical intelligence and Data science<h1>
+<h1>Artifical intelligence and Data science</h1>
 </body>
 </html>
 """
@@ -82,7 +82,7 @@ httpd.serve_forever()
 
 ```
 # OUTPUT:
-![Alt text](webserver.jpg)
+![Alt text](/webserver.jpg)
 
 # RESULT:
 
