@@ -82,7 +82,7 @@ httpd.serve_forever()
 
 ```
 # OUTPUT:
-![output](webserver.jpg)
+![output](https://github.com/GURUMUR/Web_server/blob/main/webserver.jpg)
 
 # RESULT:
 
